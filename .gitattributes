@@ -1,1 +1,1 @@
-secretfile filter=git-crypt dff=git-crypt
+new_sec.txt filter=git-crypt dff=git-crypt
